@@ -1,0 +1,42 @@
+h1 {
+  color: white;
+}
+.image {
+  height: 170px;
+  width: 200px;
+  border-radius: 7px;
+}
+p {
+  max-width: 200px;
+  color: black;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: 400;
+  font-size: 17px;
+}
+.item-main {
+  border-radius: 25px;
+  background-color: white;
+  opacity: 75%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  padding: 20px;
+}
+.price {
+  color: white;
+}
+.btn {
+  background-color: #be8959;
+  padding: 10px;
+  width: 100px;
+  border-radius: 15px;
+  outline: none;
+  border: none;
+  color: white;
+}
+.btn:hover {
+  opacity: 80%;
+}

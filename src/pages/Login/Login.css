@@ -1,0 +1,29 @@
+.main{
+    background-color: #8fc05e;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 30px; 
+    border-radius: 10px;
+    margin-top: 130px;
+    
+    }
+    .inp{
+        padding:13px;
+        border-radius: 8px;
+        outline: none;
+        border: none;
+    }
+    .btn{
+        background: #9A6735;
+        padding: 8px;
+        outline: none;
+        border: none;
+        border-radius: 3px;
+        font-weight: bold;
+        font-weight: 900;
+        color: white;
+    }
